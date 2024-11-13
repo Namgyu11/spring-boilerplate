@@ -1,4 +1,4 @@
-package com.example.oauth2login.common
+package com.springboilerplate.common
 
 import io.jsonwebtoken.Jwts
 import io.jsonwebtoken.SignatureAlgorithm

@@ -1,7 +1,7 @@
 package com.springboilerplate.auth.service
 
 import com.example.oauth2login.client.oauth2.OAuth2LoginUserInfo
-import com.example.oauth2login.domain.socialmember.entity.SocialMember
+import com.springboilerplate.socialmember.entity.SocialMember
 import com.springboilerplate.socialmember.repository.SocialMemberRepository
 import org.springframework.stereotype.Service
 
